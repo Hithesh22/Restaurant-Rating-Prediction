@@ -15,8 +15,9 @@ Resturant-Rating-Prediction
 - Pandas
 - Flask
 - Pickel
+- Heruk
 ## Instruction
-#### To run locally,
+#### Run this Project locally,
 1) Clone this repository with `git clone`.
 2) Open a terminal inside the project directory.
 3) Install dependencies using `pip install -r requirements.txt`
